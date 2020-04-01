@@ -1,0 +1,14 @@
+html {
+    padding: 25;
+    background-color: #2f3640;
+    color: #f5f6fa;
+}
+
+body {
+    width: auto;
+    margin: 15;
+}
+
+a {
+    color: #f5f6fa;
+}
