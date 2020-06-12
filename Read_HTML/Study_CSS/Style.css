@@ -6,6 +6,7 @@ body {
 #divGrid {
     display: grid;
     grid-template-columns: 160px 2fr;
+    float: left;
 }
 
 h1 {
@@ -37,4 +38,12 @@ button {
     background-color: rgba(0, 0, 0, 0);
     color: white;
     border: 1px solid white;
+}
+
+#divTextBox {
+    display: flex;
+    margin: 5px;
+    padding: 3px;
+    border: 1px;
+    text-align: center;
 }
